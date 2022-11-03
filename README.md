@@ -1,2 +1,5 @@
-# tpGit
-classe Livre
+# tpGit,
+classe Livre,
+Classe LivreService,
+ClasseRessource,
+ClaaseDao.
